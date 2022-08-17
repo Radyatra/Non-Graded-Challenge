@@ -1,4 +1,8 @@
-#Dikerjakan di SQLite
+# SQL - NGC 01 - FTDS Offline
+- Nama: Radyatra Sidharta
+- Batch: 001-HCK
+
+# Dikerjakan di SQLiteonline
 
 CREATE TABLE teachers (
     id INTEGER not null PRIMARY KEY AUTOINCREMENT,
